@@ -1,5 +1,17 @@
 
 
+# Dynamic Programming and Optimal Control
+
+---
+
+by : walkerchi
+
+---
+
+
+
+## Mathematics
+
 **Notation**
 
 - $x$ : state, $x\in\mathcal S = \mathcal S^+\cup\{0\}$, 
